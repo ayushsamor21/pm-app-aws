@@ -78,7 +78,7 @@ This project is deployed on AWS using:
 
 **Your Name** — B.Tech CS (AI & ML) Student
 - GitHub: [@ayushsamor21](https://github.com/ayushsamor21)
-- LinkedIn: [linkedin.com/in/ayush-samor](www.linkedin.com/in/ayush-samor-6a579b403)
+- LinkedIn: [linkedin.com/in/ayush-samor](https://www.linkedin.com/in/ayush-samor-6a579b403/)
 
 ---
 
