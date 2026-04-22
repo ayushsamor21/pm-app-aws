@@ -61,7 +61,6 @@ npm install
 npm run dev
 ```
 
-> Full setup guide and environment variables documentation coming soon.
 
 ---
 
